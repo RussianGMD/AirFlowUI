@@ -5,13 +5,13 @@ A clean and lightweight UI library for Roblox with built-in themes (`Black` / `W
 ## Installation
 
 ```lua
-local AirFlow = loadstring(game:HttpGet("[https://raw.githubusercontent.com/RussianGMD/AirFlowUI/main/main.luau](https://raw.githubusercontent.com/RussianGMD/AirFlowUI/main/main.luau)"))()
+local AirFlow = loadstring(game:HttpGet("https://raw.githubusercontent.com/RussianGMD/AirFlowUI/refs/heads/main/main.luau"))()
 ```
 
 ## Quick Start
 
 ```lua
-local AirFlow = loadstring(game:HttpGet("[https://raw.githubusercontent.com/RussianGMD/AirFlowUI/main/main.luau](https://raw.githubusercontent.com/RussianGMD/AirFlowUI/main/main.luau)"))()
+local AirFlow = loadstring(game:HttpGet("[https://raw.githubusercontent.com/RussianGMD/AirFlowUI/refs/heads/main/main.luau](https://raw.githubusercontent.com/RussianGMD/AirFlowUI/refs/heads/main/main.luau)"))()
 
 local Window = AirFlow:CreateWindow({
     Title = "My Hub",
